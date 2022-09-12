@@ -1,0 +1,8 @@
+D:\Разработка ПО\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+D:\Разработка ПО\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+D:\Разработка ПО\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+D:\Разработка ПО\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+D:\Разработка ПО\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.SuggestedBindingRedirects.cache
+D:\Разработка ПО\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\Разработка ПО\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+D:\Разработка ПО\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
